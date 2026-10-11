@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=3000&pause=1100&color=28D9FF&center=true&vCenter=true&width=720&lines=Bem-vindo+ao+universo+MAX;Desenvolvendo+sistemas+e+automa%C3%A7%C3%B5es;Tecnologia%2C+streaming+e+inova%C3%A7%C3%A3o" alt="Apresentação animada" />
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6f42c1&label=VISITAS)
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=dissedias&style=for-the-badge&color=6f42c1&label=VISITAS)
 
 </div>
 
@@ -43,10 +43,10 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas, infraestrutura, stre
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dissedias&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dissedias&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=dissedias&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
 
