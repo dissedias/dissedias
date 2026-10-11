@@ -82,6 +82,8 @@ Os indicadores abaixo são gerados por serviços externos e podem ficar temporar
 [![Site MAX](https://img.shields.io/badge/Site-MAX-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.maxptv.pt/)
 [![MAX KICK](https://img.shields.io/badge/MAX-KICK-53FC18?style=for-the-badge&logo=kick&logoColor=black)](https://www.kick.maxptv.pt/)
 
+[![MAX WEB Player](https://img.shields.io/badge/MAX-WEB_Player-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://web.maxptv.pt/)
+
 </div>
 
 <div align="center">
