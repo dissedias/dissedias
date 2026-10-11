@@ -8,7 +8,7 @@
 
 </div>
 
-## 🎮 Sobre a MAX
+## 🎮 Sobre a MAXPTV
 
 Sou apaixonado por tecnologia, desenvolvimento de sistemas, infraestrutura, streaming e automação. Crio soluções web e ferramentas para simplificar operações, melhorar desempenho e transformar ideias em projetos reais.
 
