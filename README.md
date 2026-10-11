@@ -79,7 +79,8 @@ Os indicadores abaixo são gerados por serviços externos e podem ficar temporar
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MAX-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dissedias)
-[![Site](https://img.shields.io/badge/Site-MAX-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.maxptv.pt/)
+[![Site MAX](https://img.shields.io/badge/Site-MAX-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.maxptv.pt/)
+[![MAX KICK](https://img.shields.io/badge/MAX-KICK-53FC18?style=for-the-badge&logo=kick&logoColor=black)](https://www.kick.maxptv.pt/)
 
 </div>
 
