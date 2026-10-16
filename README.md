@@ -19,6 +19,12 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas, infraestrutura, stre
 ## 🕹️ Projetos em destaque
 
 <p align="center">
+  <a href="https://studio.maxptv.pt/"><img src="./assets/max-studio.svg" width="98%" alt="MAX Studio — aplicativo para lives, multistream, chat unificado e integração com OBS" /></a>
+</p>
+
+**[MAX Studio](https://studio.maxptv.pt/)** — aplicativo para preparar e acompanhar lives, com multistream local, chat unificado e integração com OBS. Identidade própria em vermelho e preto, interface em pt-BR e site público disponível. Aplicativo em avaliação; instalador público e painel web em desenvolvimento.
+
+<p align="center">
   <img src="./assets/max-play-pro.svg" width="48%" alt="MAX PLAY PRO — plataforma web com painel administrativo e gerenciamento de conteúdo" />
   <img src="./assets/max-web-player.svg" width="48%" alt="MAX WEB Player — reprodução, catálogo, busca, favoritos e histórico" />
 </p>
@@ -83,6 +89,7 @@ Os indicadores abaixo são gerados por serviços externos e podem ficar temporar
 [![MAX KICK](https://img.shields.io/badge/MAX-KICK%20VIEWER%20BOT-53FC18?style=for-the-badge&logo=kick&logoColor=black)](https://www.kick.maxptv.pt/)
 
 [![MAX WEB Player](https://img.shields.io/badge/MAX-WEB_Player-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://web.maxptv.pt/)
+[![MAX Studio](https://img.shields.io/badge/MAX-Studio-F5365C?style=for-the-badge&logo=obsstudio&logoColor=white)](https://studio.maxptv.pt/)
 
 </div>
 
